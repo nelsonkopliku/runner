@@ -1,10 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: runner
+  name: trento-runner
   annotations:
     github.com/project-slug: nelsonkopliku/runner
+  tags:
+      - SAP
+      - Pacemaker Cluster
+      - ha config checks
 spec:
-  type: other
-  lifecycle: unknown
-  owner: guests
+  type: service
+  lifecycle: production
+  owner: trento-team
