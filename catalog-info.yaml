@@ -5,7 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: nelsonkopliku/runner
   tags:
-      - SAP
+      - sap
       - pacemaker-cluster
       - ha-config-checks
 spec:
