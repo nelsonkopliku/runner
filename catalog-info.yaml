@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: runner
+  annotations:
+    github.com/project-slug: nelsonkopliku/runner
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
