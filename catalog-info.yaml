@@ -13,3 +13,8 @@ spec:
   type: service
   lifecycle: production
   owner: trento-team
+  system: trento
+  providesApis:
+    - trento-runner-api
+  consumesApis:
+    - trento-api
