@@ -6,8 +6,8 @@ metadata:
     github.com/project-slug: nelsonkopliku/runner
   tags:
       - SAP
-      - "Pacemaker Cluster"
-      - "ha config checks"
+      - pacemaker-cluster
+      - ha-config-checks
 spec:
   type: service
   lifecycle: production
