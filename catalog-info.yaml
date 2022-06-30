@@ -15,6 +15,6 @@ spec:
   owner: trento-team
   system: trento
   providesApis:
-    - resource:trento-runner-api
+    - trento-runner-api
   consumesApis:
-    - tresource:rento-api
+    - trento-api
