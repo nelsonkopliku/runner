@@ -4,6 +4,7 @@ metadata:
   name: trento-runner
   annotations:
     github.com/project-slug: nelsonkopliku/runner
+    backstage.io/techdocs-ref: dir:.
   tags:
       - sap
       - pacemaker-cluster
