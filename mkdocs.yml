@@ -3,8 +3,8 @@ site_description: 'Main documentation for Trento Runner features and APIs'
 # repo_url: https://github.com/<org>/<repo>
 # edit_uri: edit/master/docs
 
-# plugins:
-#   - techdocs-core
+plugins:
+  - techdocs-core
 
 nav:
   - Home: index.md
