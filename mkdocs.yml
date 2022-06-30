@@ -1,0 +1,13 @@
+site_name: 'Trento Runner Documentation'
+site_description: 'Main documentation for Trento Runner features and APIs'
+# repo_url: https://github.com/<org>/<repo>
+# edit_uri: edit/master/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Home: runner.md
+  - API: api/README.md
+  - Development:
+    - How to Make a release: development/how-to-make-a-release.md 
